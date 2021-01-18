@@ -1,0 +1,7 @@
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\bin\Debug\ConsoleLessonExe.exe.config
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\bin\Debug\ConsoleLessonExe.exe
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\bin\Debug\ConsoleLessonExe.pdb
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\obj\Debug\ConsoleLessonExe.csprojAssemblyReference.cache
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\obj\Debug\ConsoleLessonExe.csproj.CoreCompileInputs.cache
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\obj\Debug\ConsoleLessonExe.exe
+C:\Users\ymaed\source\repos\ConsoleLesson\ConsoleLessonExe\obj\Debug\ConsoleLessonExe.pdb
